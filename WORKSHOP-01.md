@@ -21,3 +21,12 @@ What is the assistant editor and what does it do? provide custom settings instea
 Where is the icon for the Attribute Inspector, where is it located and what does it do? top right, ven diagram, where you design.
 
 Where is the icon for the project navigator and where is it located? top left, folder
+
+```swift
+
+class Person {
+
+}
+
+
+```
